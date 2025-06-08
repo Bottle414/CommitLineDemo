@@ -1,6 +1,6 @@
 {
   "lint-staged": {
-    "**/*.{js, ts, css}": [
+    "**/*.{js,ts,css}": [
       "eslint --fix",
       "prettier --write"
     ]
